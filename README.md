@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 💻  Computer Engineering Student @ MSKU<br>- 🚀 Currently working on sports performance monitoring with AI<br>- 🎸 Metal guitarist when not debugging</p>
+<p align="left">- 💻  Computer Engineer<br>- 🚀 Currently working on sports performance monitoring with AI<br>- 🎸 Metal guitarist when not debugging</p>
 
 ###
 
